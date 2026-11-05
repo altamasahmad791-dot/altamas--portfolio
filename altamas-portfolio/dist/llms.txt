@@ -1,0 +1,24 @@
+# ALTAMAS — Personal Portfolio
+
+Altamas is a second-year Bachelor's degree student and aspiring Full Stack Developer.
+His interests include technology, programming, building useful digital experiences,
+and improving problem-solving skills through Data Structures and Algorithms.
+
+## Current learning
+- Full Stack Web Development
+- Data Structures and Algorithms (DSA), learning through Apna College
+- Approximately 80% of the DSA course syllabus completed (a learning milestone, not a mastery claim)
+
+## Projects
+- JSS Event Hub — an event-focused web application.
+  GitHub: https://github.com/altamasahmad791-dot/JSS-Event-Hub
+- Baithak Café — a responsive café website.
+  GitHub: https://github.com/altamasahmad791-dot/Baithak-cafe
+
+## Public profiles
+- LinkedIn: https://www.linkedin.com/in/altamas-81b01a369/
+- GitHub: https://github.com/altamasahmad791-dot
+- Instagram: https://www.instagram.com/harry_exe666/
+
+## Contact
+Use the social profile links above to connect. A direct email address has not yet been provided.
